@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "28b9cc8f29e90061",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d0061f8fcfeb89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09785f485abaaaf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d070dc67533dc64",
+    "type": "split",
+    "children": [
+      {
+        "id": "cde85e9622d7973c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d907e5e60c9258ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "89883cf47947a75c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "20d552a52da2cdb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bafc3cc08212dbc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dc9dc78cf267dc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c9d600dbdc0eaf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard/Training Tracker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Training Tracker"
+            }
+          },
+          {
+            "id": "d72aa6730a26d893",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard/Training Tracker.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Training Tracker"
+            }
+          },
+          {
+            "id": "273c05ce68c6265f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "523d07995d339d2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard/Training Tracker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Training Tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian42-brat:BRAT": false,
+      "strava-sync:Import new activities from Strava": false,
+      "templater-obsidian:Templater": false,
+      "dbfolder:Create a new database table": false
+    }
+  },
+  "active": "09785f485abaaaf2",
+  "lastOpenFiles": [
+    "Dashboard/Running Database.md",
+    "Dashboard/Training Tracker.md",
+    "Strava/2024/12/13026662811 Afternoon Walk.md",
+    "Strava/2024/12/13101207627 Morning Walk.md",
+    "Strava/2024/12/13176261091 Lunch Run.md",
+    "Strava/2024/12/13195697802 Lunch Walk🐶.md",
+    "Strava/2024/12/13158153782 Afternoon Walk🐶.md",
+    "Strava/2024/12/13108673158 Lunch Walk.md",
+    "Strava/2024/12/13212587090 Evening Walk.md",
+    "Strava/2024/12/13225511664 Lunch Run.md",
+    "Strava/2024/12/13090079279 Treadmill Run with Pam.md",
+    "Strava/2024/12/13219104195 Afternoon Weight Training.md",
+    "Strava/2024/12/13204735636 Evening Walk🐶🐶 with Pam.md",
+    "Strava/2024/12/13124974930 Evening Run.md",
+    "Strava/2024/12/13211355648 Lunch Walk.md",
+    "Strava/2024/12/13110359657 Evening Weight Training.md",
+    "Strava/2024/12/13053985905 Lunch Weight Training.md",
+    "Strava/2024/12/13096950767 Evening Run.md",
+    "Strava/2024/12/13175865523 Morning Walk.md",
+    "Strava/2024/12/13123539231 Lunch Walk.md",
+    "Strava/2024/12/13061417993 Afternoon Run🐶.md",
+    "Strava/2024/12/13075774080 Afternoon Walk🐶🐶.md",
+    "Strava/2024/12/13203613744 Afternoon Bouldering with Pam.md",
+    "Strava/2024/12/13234533944 Afternoon Weight Training.md",
+    "Strava/2024/12/13041396335 Afternoon Run🐶.md",
+    "Strava/2024/12/13197188891 Afternoon Run.md",
+    "Strava/2020/12",
+    "Strava/2020/10",
+    "Strava/2020/11",
+    "Strava/2020",
+    "Strava/2021/12",
+    "Strava/2021/11",
+    "Strava/2021/10",
+    "Strava/2021/09",
+    "Strava/2021/08",
+    "Strava/2021/07"
+  ]
+}
