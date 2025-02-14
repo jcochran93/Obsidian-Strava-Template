@@ -11,7 +11,7 @@ To use this template:
 		git clone https://github.com/jcochran93/Obsidian-Strava-Template.git
 	```
 	
-4. Alternatively, download all files from the repo and post into "Vault"  from [here](https://github.com/jcochran93/Obsidian-Strava-Template.git)  
+4. Alternatively, download all files from the repo and paste into "Vault"  from [here](https://github.com/jcochran93/Obsidian-Strava-Template.git)  
     1. Select Code -> Download Zip
 5. Open this folder as a new vault in Obsidian
 6.  Set up the API application for the Extended Strava Sync plugin by following these [instructions](https://github.com/jcochran93/obsidian-strava-sync#sync-configuration)
